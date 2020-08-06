@@ -1,3 +1,6 @@
+
+package ch.postfinance.dummy;
+
 public class Main {
 
 
